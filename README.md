@@ -22,7 +22,7 @@ AgriFresh is a Flutter-based e-commerce application designed to help users subsc
 ## 📸 Screenshots
 
 ### 🎨 **Prototype Design**
-_(Add screenshots of your Figma prototype here)_
+
 
 | Login Page | Home Page | Subscription Page |
 |------------|----------|------------------|
@@ -32,7 +32,7 @@ _(Add screenshots of your Figma prototype here)_
 
 
 ### 📱 **Final Project Screenshots**
-_(Add real app screenshots after implementation)_
+
 
 | Login Page | Home Page | Subscription Page |
 |------------|----------|------------------|
