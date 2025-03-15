@@ -1,4 +1,4 @@
-# AgriFresh - Fresh Veggies Subscription App
+![log in](https://github.com/user-attachments/assets/e9ace2d7-0b89-471d-a9bc-42bd2f969fcf)# AgriFresh - Fresh Veggies Subscription App
 
 AgriFresh is a Flutter-based e-commerce application designed to help users subscribe to fresh vegetable deliveries. This app provides a seamless user experience, from browsing available vegetables to managing subscriptions and payments.
 
@@ -33,7 +33,7 @@ _(Add real app screenshots after implementation)_
 
 | Login Page | Home Page | Subscription Page |
 |------------|----------|------------------|
-| ![Login](screenshots/final_login.png) | ![Home](screenshots/final_home.png) | ![Subscription](screenshots/final_subscription.png) |
+| ![log in](https://github.com/user-attachments/assets/5dfa102c-95fb-4708-a4ea-7b6949a8a384)| ![sign up](https://github.com/user-attachments/assets/1e06a9a8-c41a-483d-b030-1b9fe56854ec)| ![Explore](https://github.com/user-attachments/assets/f6800f1c-2a4e-437a-9519-5ac7665a42cd)|
 
 ## 🔧 Installation & Setup
 
