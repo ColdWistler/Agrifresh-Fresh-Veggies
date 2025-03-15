@@ -1,0 +1,47 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "agrifresh-9e582",
+          "appId": "1:983702128195:android:414aa1a4a4d9ad476176f6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "agrifresh-9e582",
+          "configurations": {
+            "android": "1:983702128195:android:414aa1a4a4d9ad476176f6",
+            "ios": "1:983702128195:ios:d35314419d77b4a26176f6",
+            "macos": "1:983702128195:ios:d35314419d77b4a26176f6",
+            "web": "1:983702128195:web:cf9818eff030192d6176f6",
+            "windows": "1:983702128195:web:33d6ff9e00e587a06176f6"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "apphosting": {
+      "port": 5002,
+      "rootDirectory": "./"
+    },
+    "auth": {
+      "port": 9099
+    },
+    "firestore": {
+      "port": 8080
+    },
+    "database": {
+      "port": 9000
+    },
+    "storage": {
+      "port": 9199
+    },
+    "ui": {
+      "enabled": true
+    },
+    "singleProjectMode": true
+  }
+}
